@@ -22,5 +22,5 @@ Preconditions: Connect your device to wifi or the network.
 * 1. Tap the "Hello World Testing Ads" icon. 
 * 2. After the app opens, type in any text into the form and tap "SEND" button.
 * 3. After transitioning to the Second screen, press the "ClOSE THIS ACTIVITY" button.
-* 4. Check if the Interstitial Ad will show up. 
+* 4. Check if the Interstitial Ad shows up. 
 (Depending on the network or the situation, there might be a delay for the Ads to show up)
