@@ -1,6 +1,6 @@
 # Hello-World-Ad-App (Part 1: B)
 # Description
-This sample demonstrates how to request and display IronSource interstitial ad in an Android application. 
+This sample demonstrates how to request and display IronSource interstitial ad in an basic Android application. 
 
 Check the following link for screenshots and the sample apk file. 
 
